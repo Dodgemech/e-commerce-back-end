@@ -38,4 +38,4 @@ THEN I am able to successfully create, update, and delete data in my database
 6. Exit MySQL by using the command ```quit```.
 7. Seed the database using the command ````npm run seed```.
 8. Enter the command ```node index.js``` to start the application.
-## Demo
+
